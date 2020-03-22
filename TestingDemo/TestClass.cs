@@ -56,7 +56,8 @@ namespace TestingDemo
         [Test]
         public void TestMethod4()
         {
-            System.Console.WriteLine("TestMethod2");
+            System.Console.WriteLine("TestMethod23748433");
+            System.Console.WriteLine("xxxxxx");
         }
     }
 }
