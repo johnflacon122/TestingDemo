@@ -39,5 +39,12 @@ namespace TestingDemo
 
             driver.Quit();
         }
+
+        
+        [Test]
+        public void TestMethod2()
+        {
+            System.Console.WriteLine("TestMethod2");
+        }
     }
 }
